@@ -1,4 +1,4 @@
-## Game Crash Project(GC)
+## Game Crash Project(GCP)
 
 [Best of the Best(BoB)](https://www.kitribob.kr/) 10기 취약점 분석 트랙 프로젝트 팀
 
